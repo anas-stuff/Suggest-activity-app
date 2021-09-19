@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">اقتراح مكان للتنزه أو نشاط</string>
+    <string name="suggest_button">اقترح</string>
+    <string name="arrow_left">النشاط السابق</string>
+    <string name="arrow_right">النشاط التالي</string>
+    <string name="image_descripton">صورة الإقتراح</string>
+
+    <string name="activity_name_1">الذهاب الشاطئ</string>
+    <string name="activity_name_2">قيادة الدراجة</string>
+    <string name="activity_name_3"> لعب كرة قدم</string>
+    <string name="activity_name_4">زيارة المتحف</string>
+    <string name="activity_name_5">التنزه</string>
+    <string name="activity_name_6">الاكل في للمطعم</string>
+    <string name="activity_name_7">جري</string>
+    <string name="activity_name_8">تسوق</string>
+    <string name="activity_name_9">سباحة</string>
+    <string name="activity_name_10">مشي</string>
+
+</resources>

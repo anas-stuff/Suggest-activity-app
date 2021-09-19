@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Suggest a place for a walk or activity</string>
+    <string name="suggest_button">Suggest</string>
+    <string name="arrow_left">Previous activity</string>
+    <string name="arrow_right">Next activity</string>
+    <string name="image_descripton">suggestion image</string>
+
+    <string name="activity_name_1">Go beach</string>
+    <string name="activity_name_2">Bike</string>
+    <string name="activity_name_3">Playing football</string>
+    <string name="activity_name_4">Museum visit</string>
+    <string name="activity_name_5">Hiking</string>
+    <string name="activity_name_6">Eating in the restaurant</string>
+    <string name="activity_name_7">Running</string>
+    <string name="activity_name_8">Shopping</string>
+    <string name="activity_name_9">Swimming</string>
+    <string name="activity_name_10">Walking</string>
+
+</resources>
